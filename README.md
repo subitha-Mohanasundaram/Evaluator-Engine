@@ -12,7 +12,7 @@ This repository is a production-style, local-first coding assignment platform:
 
 ## Quick Start (Recommended)
 
-1. Create `.env`:
+1. Create `.env`:    
 
 ```powershell
 cd C:\Automation
