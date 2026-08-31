@@ -8,7 +8,7 @@ This repository is a production-style, local-first coding assignment platform:
   - **visible + hidden + stress** test packs
   - a reference solution and expected outputs (computed safely in Docker)
 - Students submit solutions in a browser editor
-- Evaluations run in a sandbox (Docker) and produce JSON reports + a dashboard view
+- Evaluations run in a sandbox (Docker) and produce JSON reports + a dashboard view                                        
 
 ## Quick Start (Recommended)
 
